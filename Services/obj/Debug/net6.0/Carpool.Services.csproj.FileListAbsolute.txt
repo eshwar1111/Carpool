@@ -1,0 +1,17 @@
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.csproj.AssemblyReference.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.AssemblyInfoInputs.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.AssemblyInfo.cs
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.csproj.CoreCompileInputs.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Services.deps.json
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Services.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Services.pdb
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Database.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Models.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Database.pdb
+C:\Users\eshwa\Downloads\cSharp\task5\Services\bin\Debug\net6.0\Carpool.Models.pdb
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.csproj.CopyComplete
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\refint\Carpool.Services.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\Carpool.Services.pdb
+C:\Users\eshwa\Downloads\cSharp\task5\Services\obj\Debug\net6.0\ref\Carpool.Services.dll

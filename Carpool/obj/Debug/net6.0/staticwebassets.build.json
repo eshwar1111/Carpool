@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vSCN/1AhrbsULHvGsTKA7onnwmG2SLkejfddFp3fcQM=",
+  "Source": "Carpool.Api",
+  "BasePath": "_content/Carpool.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

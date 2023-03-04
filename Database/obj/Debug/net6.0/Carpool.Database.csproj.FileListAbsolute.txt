@@ -1,0 +1,14 @@
+C:\Users\eshwa\Downloads\cSharp\task5\Database\bin\Debug\net6.0\Carpool.Database.deps.json
+C:\Users\eshwa\Downloads\cSharp\task5\Database\bin\Debug\net6.0\Carpool.Database.runtimeconfig.json
+C:\Users\eshwa\Downloads\cSharp\task5\Database\bin\Debug\net6.0\Carpool.Database.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Database\bin\Debug\net6.0\Carpool.Database.pdb
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.csproj.AssemblyReference.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.AssemblyInfoInputs.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.AssemblyInfo.cs
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.csproj.CoreCompileInputs.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\refint\Carpool.Database.dll
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.pdb
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\Carpool.Database.genruntimeconfig.cache
+C:\Users\eshwa\Downloads\cSharp\task5\Database\obj\Debug\net6.0\ref\Carpool.Database.dll
